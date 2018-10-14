@@ -1,4 +1,5 @@
 #+++++++++++
+#jjjjjjjjjjj
 import scrapy
 from scrapy.contrib.pipeline.images import ImagesPipeline
 from scrapy.exceptions import DropItem
